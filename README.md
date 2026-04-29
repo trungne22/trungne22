@@ -1,42 +1,46 @@
-# 👋 Xin chào, mình là NexZ
+<!-- BANNER -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WEBSITE-profilebaotrung.netlify.app-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DISCORD-BOT_DEV-5865F2?style=for-the-badge&logo=discord">
-  <img src="https://img.shields.io/badge/FOLLOWERS-3-blue?style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=trungne22&color=blue&style=for-the-badge">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=NexZ%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- TYPING INTRO -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Discord+Bot+Engineer;Automation+System+Builder;Node.js+%7C+Express+%7C+Realtime+Apps" />
 </p>
 
 ---
 
-## 🚀 Về Mình
+## 🧠 About Me
 
 ```js
 const nexz = {
-  role: "Backend / Discord Bot Developer",
+  name: "NexZ",
+  role: "Backend Developer / Discord Bot Engineer",
   location: "Vietnam 🇻🇳",
-  currentFocus: "Automation Systems & Web Services",
-  learning: ["Node.js", "Express", "Realtime Apps"],
-  hobbies: ["Coding", "System Design", "Build Tools"],
+  focus: "Automation Systems & Scalable Backend",
+  stack: ["Node.js", "Express", "Discord.js v14", "MongoDB"],
+  currentProject: "Discord Bot + Web Dashboard",
   motto: "Build systems, not just code ⚡"
 };
 ```
 
 ---
 
-## 💡 Hiện Tại
+## 🚀 Current Focus
 
-* 🔧 Đang phát triển **Discord Bot System**
-* 🌐 Xây dựng **Web Dashboard (Express + OAuth2)**
-* ⚡ Tối ưu hệ thống & automation
-* 🎯 Mục tiêu: **Advanced Backend Developer**
+* ⚙️ Building **Discord Bot System (ticket, order, automation)**
+* 🌐 Developing **Web Dashboard (Express + OAuth2)**
+* 🔥 Optimizing performance & scaling backend
+* 🎯 Goal: **Become Advanced Backend Developer**
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,js,express,mongodb,html,css,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,express,mongodb,html,css,git,github,vscode,linux" />
 </p>
 
 ---
@@ -44,12 +48,43 @@ const nexz = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trungne22&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trungne22&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trungne22&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trungne22&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Liên hệ
+## 📈 Activity Graph
 
-* Website: https://profilebaotrung.netlify.app/
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trungne22&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://profilebaotrung.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👁 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trungne22&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
